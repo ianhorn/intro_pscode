@@ -1,4 +1,30 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
+
+### Guess the Number Game
+Load Libraries
+Create a variable for numbers
+`let numbers = [1-10]`
+Prompt User to Run Random Number Generator
+`input("Please click the button to guess the number")`
+Run random number generator function
+Get function from loaded library
+`function(randomNumber(numbers))`
+Prompt user to guess the number
+
+```
+input("Please guess the number 1 throught 10.\n
+        You have 3 tries.")
+```
+Run Logic 
+If answer == randomNumber echo "Congrats";
+    else input("Try Again!")
+If answer2 == randomNumber echo "Congrats"'
+    else input("Try Again!")
+If answer3 == randomNumer echo "Congrats, You did it!";
+    echo "Do you want to play again?"
+    else echo "Sorry, would you like to play again?"
+
+
 # ------------------------------------------------- #
 

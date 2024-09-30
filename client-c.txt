@@ -1,4 +1,13 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
+
+```
+# Set up Loop
+Set variable 'j' to 0
+While 'j' is less than or equal to 50
+    Print 'j'
+    Increment 'i' by 2
+End Loop
+```
 # ------------------------------------------------- #
 
